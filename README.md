@@ -1,4 +1,4 @@
-# Body-Pose-Tracker
+# Human Pose Estimation
 
 Welcome! This repository is dedicated to track human body posture leveraging deep learning techniques, specifically utilizing CNN. In our notebook script, main.ipynb,' delve into code implementing regression to identify 14 key points of the human body. Our findings and insights are documented in the reports.
 
